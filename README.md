@@ -23,7 +23,7 @@ cd c-mail
 - **Create a branch** for a new algorithm contribution:
 
 ```bash
-git checkout -b feature/<name-of-algorithm>
+git checkout -b feature/<name-of-feature>
 ```
 
 - *Or* if its a bugfix to a file:
