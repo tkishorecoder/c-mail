@@ -20,7 +20,7 @@ git clone https://github.com/<insert-your-username>/c-mail.git
 cd c-mail
 ```
 
-- **Create a branch** for a new algorithm contribution:
+- **Create a branch** for a new feature contribution:
 
 ```bash
 git checkout -b feature/<name-of-feature>
